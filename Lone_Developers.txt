@@ -1,0 +1,22 @@
+Description of your project
+---------------------------
+
+As schools around the world respond to the “new normal”, the need for remote learning tools has never been more urgent. We present a solution that can help schools, educators, students, and their families to make the transition to distance learning easier.
+We Developed pseudo distance learning applications or online educational tools for remote learning that allow users to interact and a “classroom-like” environment.
+
+Some Features: 
+
+1) Users can register as students, Teachers, or Parents.
+2) Virtual study group — Students can meet up on a common forum and prepare for their exams along with other students that are studying for the same subject matter.
+3) Provide users with study material, tools, discussion helps guides, etc.
+4)Parents can check the notice board for any announcement (like snow/rainy day holidays, reports cards, fee due dates, attendance as well as upcoming school events) rather than communicating via email.
+5)Parents/Teachers can upload photos, videos and other files that they may feel are important for children’s education.
+
+Contents of project directory
+-----------------------------
+
+The project directory contains modular and structured code for the hosted web application. It is written in Python language using Django Framework.
+
+To Host locally
+---------------
+Please follow Readme inside the project directory to see the installation process.
